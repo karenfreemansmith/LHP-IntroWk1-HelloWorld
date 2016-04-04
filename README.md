@@ -1,10 +1,12 @@
-# :alien: Hello World
-__Version 1: April 3, 2016__
+# :alien: [Hello World](http://karenfreemansmith.gihub.io/hello-world)
+![project screenshot](/img/screenshot.jpg)
+
+__Version 2: March 27, 2016__
+
 ## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
 
 ### Description
 __*A page to say hello in many languages.*__
-![project screenshot](/img/screenshot.jpg)
 
 Project based on a beginning exercise from [Epicocus](http://epicodus.com) to learn Git and GitHub.
 
