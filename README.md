@@ -1,4 +1,4 @@
-# :alien: [Hello World](http://karenfreemansmith.gihub.io/hello-world)
+# :alien: [Hello World](http://karenfreemansmith.github.io/hello-world)
 ![project screenshot](/img/screenshot.jpg)
 
 __Version 2: March 27, 2016__
