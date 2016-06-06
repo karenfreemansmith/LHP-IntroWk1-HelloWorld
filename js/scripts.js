@@ -13,6 +13,8 @@ xhr.send();
 
 $("li").click(function() {
   var key = $(this).attr('id');
+  $("li").removeClass("active");
+  $(this).addClass("active");
   uiDisplayPhrases(languages, key);
 });
 
