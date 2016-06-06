@@ -1,6 +1,6 @@
 [
   {
-    "language":"English",
+    "language":["English","eng","English"],
     "hello_world":["Hello world",""],
     "goodbye_friends":["Goodbye, friends...",""],
     "yes_please":["Yes, please!",""],
@@ -8,7 +8,7 @@
     "excuse_me":["Excuse me,",""]
   },
   {
-    "language":"Chinese",
+    "language":["Chinese","zho","中文"],
     "hello_world":["你好，世界","(Nǐ hǎo, shìjiè!)"],
     "goodbye_friends":["再见，朋友们...(Zàijiàn, péngyǒumen...)",""],
     "yes_please":["是的，请!","Shì de, qǐng!"],
@@ -16,7 +16,7 @@
     "excuse_me":["打扰一下,","Dǎrǎo yīxià,"]
   },
   {
-    "language":"Spanish",
+    "language":["Spanish","spa","español"],
     "hello_world":["¡Hola Mundo!",""],
     "goodbye_friends":["Adios Amigos...",""],
     "yes_please":["Sí, por favor!",""],
@@ -24,7 +24,7 @@
     "excuse_me":["Disculpe,",""]
   },
   {
-    "language":"Russian",
+    "language":["Russian","rus","русский"],
     "hello_world":["Привет мир!","(Privet mir!)"],
     "goodbye_friends":["До свидания друзья... (Do svidaniya druz'ya...)",""],
     "yes_please":["Да, пожалуйста!","Da, pozhaluysta!"],
@@ -32,7 +32,7 @@
     "excuse_me":["Извините,","Izvinite,"]
   },
   {
-    "language":"French",
+    "language":["French","fra","français"],
     "hello_world":["Bonjour le monde!",""],
     "goodbye_friends":["Au revoir les amis...",""],
     "yes_please":["Oui, s'il vous plaît!",""],
@@ -40,7 +40,7 @@
     "excuse_me":["Excusez-moi,",""]
   },
   {
-    "language":"Arabic",
+    "language":["Arabic","ara","العَرَبِية"],
     "hello_world":[" مرحبا بالعالم!","marhabaan bialealim!"],
     "goodbye_friends":[" وداعا، والأصدقاء ...","wadaeaan, wal'asdiqa'..."],
     "yes_please":[" نعم من فضلك!","nem min fadlik!"],
@@ -48,7 +48,7 @@
     "excuse_me":["عفوا,","eafwa"]
   },
   {
-    "language":"German",
+    "language":["German","deu","Deutsch"],
     "hello_world":["Hallo Welt!",""],
     "goodbye_friends":["Auf Wiedersehen Freunde...",""],
     "yes_please":["Ja, bitte!",""],
@@ -56,7 +56,7 @@
     "excuse_me":["Entschuldigen Sie,",""]
   },
   {
-    "language":"Hindi",
+    "language":["Hindi","hin","हिन्दी"],
     "hello_world":["नमस्ते दुनिया!","(namaste duniya!)"],
     "goodbye_friends":["अलविदा दोस्तों... (alavida doston...)",""],
     "yes_please":["हाँ कृपया!","haan krpaya!"],
@@ -64,7 +64,7 @@
     "excuse_me":["मुझे माफ करें,","mujhe maaph karen,"]
   },
   {
-    "language":"Portguese",
+    "language":["Portguese","por","português"],
     "hello_world":["Olá Mundo!",""],
     "goodbye_friends":["Adeus amigos...",""],
     "yes_please":["Sim por favor!",""],
@@ -72,7 +72,7 @@
     "excuse_me":["Com licença,",""]
   },
   {
-    "language":"Japanese",
+    "language":["Japanese","jpn","日本語"],
     "hello_world":["こんにちは世界","Kon'nichiwa sekai!"],
     "goodbye_friends":["さようなら、友人...","Sayōnara, yūjin..."],
     "yes_please":["はい、してください!","Hai, onegaishimasu!"],
@@ -80,7 +80,7 @@
     "excuse_me":["すみません,","Sumimasen,"]
   },
   {
-    "language":"Turkish",
+    "language":["Turkish","tur","Türkçe"],
     "hello_world":["Selam Dünya!",""],
     "goodbye_friends":["Hoşçakalın arkadaşlar...",""],
     "yes_please":["Evet lütfen!",""],
@@ -88,7 +88,7 @@
     "excuse_me":["Afedersiniz,",""]
   },
   {
-    "language":"Korean",
+    "language":["Korean","kor","조선말"],
     "hello_world":["안녕하세요, 세계!","annyeonghaseyo, segye!"],
     "goodbye_friends":["안녕, 친구 ...","annyeong, chingu..."],
     "yes_please":["예, 부탁합니다!","ye, butaghabnida!"],
@@ -96,7 +96,7 @@
     "excuse_me":["실례합니다,","sillyehabnida,"]
   },
   {
-    "language":"Klingon",
+    "language":["Klingon","tlh","tlhIngan Hol"],
     "hello_world":["qo' vIvan!",""],
     "goodbye_friends":["DaH bImej, jup.",""],
     "yes_please":["HIja', bel!",""],
@@ -104,7 +104,7 @@
     "excuse_me":["nuqneH!",""]
   },
   {
-    "language":"Punjabi",
+    "language":["Punjabi","pan","ਪੰਜਾਬੀ"],
     "hello_world":["ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ!","(Sati srī akāla duni'ā!)"],
     "goodbye_friends":["ਅਲਵਿਦਾ, ਦੋਸਤ ... (Alavidā, dōsata...)",""],
     "yes_please":["ਜੀ ਜਰੂਰ!","Jī jarūra!"],
@@ -112,7 +112,7 @@
     "excuse_me":["ਮੈਨੂੰ ਮਾਫ਼ ਕਰੋ,","Mainū māfa karō"]
   },
   {
-    "language":"Italian",
+    "language":["Italian","ota","Italiano"],
     "hello_world":["Ciao mondo!",""],
     "goodbye_friends":["Arrivederci amici...",""],
     "yes_please":["Sì grazie!",""],
@@ -120,7 +120,7 @@
     "excuse_me":["Scusami,",""]
   },
   {
-    "language":"Thai",
+    "language":["Thai","tha","ไทย"],
     "hello_world":["สวัสดีชาวโลก!","S̄wạs̄dī chāw lok!"],
     "goodbye_friends":["ลาก่อนเพื่อน... ","Lā k̀xn pheụ̄̀xn..."],
     "yes_please":["ใช่โปรด!","Chı̀ pord!"],
@@ -128,7 +128,7 @@
     "excuse_me":["ขอโทษ,","K̄hxthos̄ʹ"]
   },
   {
-    "language":"Latin",
+    "language":["Latin","lat","latīna"],
     "hello_world":["Salve, universitas!",""],
     "goodbye_friends":["Vale, amici ...",""],
     "yes_please":["Ita, quaeso!",""],
@@ -136,7 +136,7 @@
     "excuse_me":["Habes,",""]
   },
   {
-    "language":"Greek",
+    "language":["Greek","ell","ελληνικά"],
     "hello_world":["Γειά σου Κόσμε!","(Geiá sou Kósme!)"],
     "goodbye_friends":["Αντίο, φίλοι ...","(Antío, fíloi ...)"],
     "yes_please":["Ναι παρακαλώ!","Nai parakaló!"],
@@ -144,7 +144,7 @@
     "excuse_me":["Με συγχωρείτε,","Me synchoreíte,"]
   },
   {
-    "language":"Welsh",
+    "language":["Welsh","cym","Cymraeg"],
     "hello_world":["Helo Byd!",""],
     "goodbye_friends":["Hwyl fawr, ffrindiau ...",""],
     "yes_please":["Os gwelwch yn dda!",""],
@@ -152,7 +152,7 @@
     "excuse_me":["Esgusodwch fi,",""]
   },
   {
-    "language":"Georgian",
+    "language":["Georgian","kat","ქართული"],
     "hello_world":["გამარჯობა მსოფლიო!","(gamarjoba msop’lio!)"],
     "goodbye_friends":["მშვიდობით, მეგობრები ... ","(mshvidobit’, megobrebi ...)"],
     "yes_please":["დიახ, თუ შეიძლება!","diakh, t’u sheidzleba!"],
@@ -160,7 +160,7 @@
     "excuse_me":["ბოდიში,","bodishi"]
   },
   {
-    "language":"Swahili",
+    "language":["Swahili","swa","Kiswahili"],
     "hello_world":["Salamu, Dunia!",""],
     "goodbye_friends":["Kwa heri, marafiki ...",""],
     "yes_please":["Ndio tafadhali!",""],
@@ -168,7 +168,7 @@
     "excuse_me":["Samahani,",""]
   },
   {
-    "language":"Amharic",
+    "language":["Amharic","amh","አማርኛ"],
     "hello_world":["ሰላም ልዑል!","(selami li‘uli!)"],
     "goodbye_friends":["ቻው, ጓደኞች!","(chawi, gwadenyochi!)"],
     "yes_please":["አዎ እባክዎ!","āwo ibakiwo!"],
@@ -176,7 +176,7 @@
     "excuse_me":["ይቅር በለንኝ ይቅር በይኝ,","yik’iri beleninyi yik’iri beyinyi"]
   },
   {
-    "language":"Vietnamese",
+    "language":["Vietnamese","vie","Tiếng Việt"],
     "hello_world":["Chào thế giới!",""],
     "goodbye_friends":["Tạm biệt các bạn!",""],
     "yes_please":["Vâng làm ơn!",""],
@@ -184,7 +184,7 @@
     "excuse_me":["Xin lỗi,",""]
   },
   {
-    "language":"Khmer",
+    "language":["Cambodian","khm","ភាសាខ្មែរ"],
     "hello_world":["សួស្តី​ពិភពលោក!","(suostei​ piphoplok!)"],
     "goodbye_friends":["លាមិត្តភក្តិ!","(lea mittaphokte!)"],
     "yes_please":["បាទ, សូម!","bat, saum!"],
@@ -192,7 +192,7 @@
     "excuse_me":["អត់ទោស,","attosa"]
   },
   {
-    "language":"Polish",
+    "language":["Polish","pol","język polski"],
     "hello_world":["Witaj świecie!",""],
     "goodbye_friends":["Żegnajcie przyjaciele!",""],
     "yes_please":["Tak, proszę!",""],
@@ -200,7 +200,7 @@
     "excuse_me":["Przepraszam,",""]
   },
   {
-    "language":"Tamil",
+    "language":["Tamil","tam","தமிழ்"],
     "hello_world":["ஹலோ, உலக!","Halō, ulaka!"],
     "goodbye_friends":["குட்பாய், நண்பர்கள்!","Kuṭpāy, naṇparkaḷ!"],
     "yes_please":["ஆமாம் தயவு செய்து!","Āmām tayavu ceytu!"],
@@ -208,7 +208,7 @@
     "excuse_me":["என்னை மன்னியுங்கள்,","Eṉṉai maṉṉiyuṅkaḷ,"]
   },
   {
-    "language":"Indonesian",
+    "language":["Indonesian","ind","Bahasa Indonesia"],
     "hello_world":["Halo Dunia!",""],
     "goodbye_friends":["Selamat tinggal teman!",""],
     "yes_please":["Ya, silahkan!",""],
