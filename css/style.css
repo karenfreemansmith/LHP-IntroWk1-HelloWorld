@@ -22,3 +22,25 @@ ul {
 li {
   font-weight: bold;
 }
+
+.card {
+  display: inline-block;
+  height: 100px;
+  width: 150px;
+  margin: 1px;
+  padding-top: 35px;
+  text-align: center;
+}
+
+.card:hover {
+  background-color: #ddd;
+  cursor: pointer;
+}
+
+.sidea {
+
+}
+
+.sideb {
+  display:none;
+}

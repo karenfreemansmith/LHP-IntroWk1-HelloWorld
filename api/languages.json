@@ -9,8 +9,8 @@
   },
   {
     "language":["Chinese","zho","中文"],
-    "hello_world":["你好，世界","(Nǐ hǎo, shìjiè!)"],
-    "goodbye_friends":["再见，朋友们...(Zàijiàn, péngyǒumen...)",""],
+    "hello_world":["你好，世界","Nǐ hǎo, shìjiè!"],
+    "goodbye_friends":["再见，朋友们...","Zàijiàn, péngyǒumen..."],
     "yes_please":["是的，请!","Shì de, qǐng!"],
     "no_thanks":["不，谢谢","Bù, xièxiè."],
     "excuse_me":["打扰一下,","Dǎrǎo yīxià,"]
@@ -25,8 +25,8 @@
   },
   {
     "language":["Russian","rus","русский"],
-    "hello_world":["Привет мир!","(Privet mir!)"],
-    "goodbye_friends":["До свидания друзья... (Do svidaniya druz'ya...)",""],
+    "hello_world":["Привет мир!","Privet mir!"],
+    "goodbye_friends":["До свидания друзья...","Do svidaniya druz'ya..."],
     "yes_please":["Да, пожалуйста!","Da, pozhaluysta!"],
     "no_thanks":["Нет, спасибо.","Net, spasibo."],
     "excuse_me":["Извините,","Izvinite,"]
@@ -57,8 +57,8 @@
   },
   {
     "language":["Hindi","hin","हिन्दी"],
-    "hello_world":["नमस्ते दुनिया!","(namaste duniya!)"],
-    "goodbye_friends":["अलविदा दोस्तों... (alavida doston...)",""],
+    "hello_world":["नमस्ते दुनिया!","namaste duniya!"],
+    "goodbye_friends":["अलविदा दोस्तों...","alavida doston..."],
     "yes_please":["हाँ कृपया!","haan krpaya!"],
     "no_thanks":["नहीं धन्यवाद।.","nahin dhanyavaad."],
     "excuse_me":["मुझे माफ करें,","mujhe maaph karen,"]
@@ -105,8 +105,8 @@
   },
   {
     "language":["Punjabi","pan","ਪੰਜਾਬੀ"],
-    "hello_world":["ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ!","(Sati srī akāla duni'ā!)"],
-    "goodbye_friends":["ਅਲਵਿਦਾ, ਦੋਸਤ ... (Alavidā, dōsata...)",""],
+    "hello_world":["ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ!","Sati srī akāla duni'ā!"],
+    "goodbye_friends":["ਅਲਵਿਦਾ, ਦੋਸਤ ...","Alavidā, dōsata..."],
     "yes_please":["ਜੀ ਜਰੂਰ!","Jī jarūra!"],
     "no_thanks":["ਬੱਸ ਮਿਹਰਬਾਨੀ.","Basa miharabānī"],
     "excuse_me":["ਮੈਨੂੰ ਮਾਫ਼ ਕਰੋ,","Mainū māfa karō"]
@@ -137,8 +137,8 @@
   },
   {
     "language":["Greek","ell","ελληνικά"],
-    "hello_world":["Γειά σου Κόσμε!","(Geiá sou Kósme!)"],
-    "goodbye_friends":["Αντίο, φίλοι ...","(Antío, fíloi ...)"],
+    "hello_world":["Γειά σου Κόσμε!","Geiá sou Kósme!"],
+    "goodbye_friends":["Αντίο, φίλοι ...","Antío, fíloi ..."],
     "yes_please":["Ναι παρακαλώ!","Nai parakaló!"],
     "no_thanks":["Όχι ευχαριστώ.","Óchi efcharistó"],
     "excuse_me":["Με συγχωρείτε,","Me synchoreíte,"]
@@ -153,8 +153,8 @@
   },
   {
     "language":["Georgian","kat","ქართული"],
-    "hello_world":["გამარჯობა მსოფლიო!","(gamarjoba msop’lio!)"],
-    "goodbye_friends":["მშვიდობით, მეგობრები ... ","(mshvidobit’, megobrebi ...)"],
+    "hello_world":["გამარჯობა მსოფლიო!","gamarjoba msop’lio!"],
+    "goodbye_friends":["მშვიდობით, მეგობრები ... ","mshvidobit’, megobrebi ..."],
     "yes_please":["დიახ, თუ შეიძლება!","diakh, t’u sheidzleba!"],
     "no_thanks":["არა გმადლობთ.","ara gmadlobt’."],
     "excuse_me":["ბოდიში,","bodishi"]
@@ -169,8 +169,8 @@
   },
   {
     "language":["Amharic","amh","አማርኛ"],
-    "hello_world":["ሰላም ልዑል!","(selami li‘uli!)"],
-    "goodbye_friends":["ቻው, ጓደኞች!","(chawi, gwadenyochi!)"],
+    "hello_world":["ሰላም ልዑል!","selami li‘uli!"],
+    "goodbye_friends":["ቻው, ጓደኞች!","chawi, gwadenyochi!"],
     "yes_please":["አዎ እባክዎ!","āwo ibakiwo!"],
     "no_thanks":["አይ አመሰግናለሁ.","āyi āmeseginalehu."],
     "excuse_me":["ይቅር በለንኝ ይቅር በይኝ,","yik’iri beleninyi yik’iri beyinyi"]
@@ -185,8 +185,8 @@
   },
   {
     "language":["Cambodian","khm","ភាសាខ្មែរ"],
-    "hello_world":["សួស្តី​ពិភពលោក!","(suostei​ piphoplok!)"],
-    "goodbye_friends":["លាមិត្តភក្តិ!","(lea mittaphokte!)"],
+    "hello_world":["សួស្តី​ពិភពលោក!","suostei​ piphoplok!"],
+    "goodbye_friends":["លាមិត្តភក្តិ!","lea mittaphokte!"],
     "yes_please":["បាទ, សូម!","bat, saum!"],
     "no_thanks":["មិន​អី​ទេ​អរគុណ​ហើយ។","min​ ei​ te​ arkoun​ haey"],
     "excuse_me":["អត់ទោស,","attosa"]

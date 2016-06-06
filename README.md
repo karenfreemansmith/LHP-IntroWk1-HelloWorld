@@ -8,7 +8,7 @@ __Version 3: June 4, 2016__
 ### Description
 __*A page to say hello in many languages.*__
 
-Project based on a beginning exercise from [Epicocus](http://epicodus.com) to learn Git and GitHub, expanded by combining with with bootstrap and flashcard exercises.
+Project based on a beginning exercise from [Epicocus](http://epicodus.com) to learn Git and GitHub. Expanded by combining with with bootstrap and flashcard exercises. And added language API to manage phrases and turned it into a single page app.
 
 ### Setup/Installation
 *None required. Clone or download and extract to use*
@@ -23,7 +23,7 @@ For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
 * Needs a way for visitors to add phrases
 
 ### Technologies Used
-###### HTML, CSS, Bootstrap, JavaScript/jQuery
+###### HTML, CSS, Bootstrap, JavaScript/jQuery, JSON REST API
 
 ### Legal
 *Licensed under the GNU General Public License v3.0*
