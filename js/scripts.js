@@ -18,11 +18,6 @@ $("li").click(function() {
   uiDisplayCards(languages, key);
 });
 
-$("div").click(function() {
-  $(".sidea").toggle();
-  $(".sideb").toggle();
-});
-
 //display requested phrases on page
 function uiDisplayPhrases(languages, key) {
   var linkHTML = "<ul>";
@@ -36,7 +31,19 @@ function uiDisplayPhrases(languages, key) {
 function uiDisplayCards(languages, key) {
   var linkHTML = "";
   languages.forEach(function(language) {
-    linkHTML += "<div class='card' id='"+language.language[1]+"'><span class='sidea'><strong>"+language.language[0]+"</strong></span><span class='sideb'>"+language[key][0]+"</span></div>";
+    linkHTML += "<div class='card' id='";
+    linkHTML += language.language[1]+"'><span class='sideb'><strong>";
+    linkHTML += language.language[0]+"</strong></span><span class='sidea'>";
+    linkHTML += language[key][0];
+    if(language[key][1]!=="") {
+      linkHTML += "<br>("+language[key][1]+")";
+    }
+    linkHTML += "</span></div>";
   });
   document.getElementById("languages").innerHTML=linkHTML;
+
+  $(".card").click(function() {
+    $(this).find(".sidea").toggle();
+    $(this).find(".sideb").toggle();
+  });
 }

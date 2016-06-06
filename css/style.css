@@ -25,10 +25,11 @@ li {
 
 .card {
   display: inline-block;
-  height: 100px;
-  width: 150px;
+  height: 120px;
+  width: 180px;
   margin: 1px;
   padding-top: 35px;
+  font-size: 1.2em;
   text-align: center;
 }
 
