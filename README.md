@@ -11,7 +11,7 @@ __*A page to say hello in many languages.*__
 Project based on a beginning exercise from [Epicocus](http://epicodus.com) to learn Git and GitHub. Expanded by combining with with bootstrap and flashcard exercises. And added language API to manage phrases and turned it into a single page app.
 
 ## Technologies Used
-HTML, CSS
+HTML, CSS, Bootstrap, JavaScript, jQuery
 
 ## Setup/Installation
 * [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
