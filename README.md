@@ -2,16 +2,16 @@
 Version 0.1.0: June 4, 2016
 by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
+## Technologies Used
+HTML, Git, Github, CSS, Bootstrap, JavaScript, jQuery, API/JSON
+
+![screenshot of project running](screenshot.png)
+
 ## Description
 Learn How to Program Intro to Programming Week 1 Independent Project: Build hello world website to learn fundamentals of HTML and how to use Git & Github.
 * Version 0.0.2 - Extended to use CSS/Bootstrap for styling.
 * Version 0.0.3 - Extended to use JavaScript & jQuery for flashcard function.
 * Version 0.1.0 - Extended to consume JSON file to get language data.
-
-### Technologies Used
-HTML, Git, Github, CSS, Bootstrap, JavaScript, jQuery, API/JSON
-
-![screenshot of project running](screenshot.png)
 
 ## Setup/Installation
 * [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk1-HelloWorld)
